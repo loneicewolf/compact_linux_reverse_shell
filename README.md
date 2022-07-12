@@ -6,6 +6,11 @@ A compact linux reverse shell written in the C programming language.
 obviously you can do a pull if thats what you want :)
 
 
+### upcoming changes:
+- adding shellcode execution (with a short & neat guide how to get shellcode without using radare2 or the classical ghidra or metasploit utils)
+- persistence mechanism
+
+
 https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597
 ```
 #include <stdio.h>
