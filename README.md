@@ -1,12 +1,9 @@
 # compact_linux_reverse_shell
 A compact linux reverse shell written in the C programming language.
 
-`note I haven't bothered yet to implement this in windows; if someone wants that open a issue(no need to pull) and tell me that; or request it via discord; and it should get done in a few days`
-
-obviously you can do a pull if thats what you want :)
-
 
 ### upcoming changes:
+- Windows version(on going!)
 - adding shellcode execution (with a short & neat guide how to get shellcode without using radare2 or the classical ghidra or metasploit utils)
 - persistence mechanism
 
