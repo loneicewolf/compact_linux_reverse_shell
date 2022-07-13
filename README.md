@@ -8,6 +8,11 @@ A compact linux reverse shell written in the C programming language.
 - persistence mechanism
 
 
+### Sources:
+- stack overflow
+- 
+
+
 https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597
 ```
 #include <stdio.h>
