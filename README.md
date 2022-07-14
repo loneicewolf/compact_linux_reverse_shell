@@ -2,6 +2,16 @@
 A compact linux reverse shell written in the C programming language.
 
 
+
+
+
+:warning: to myself:  update ALL reverse shells (gist, git, codes, code blocks, ....)  :warning:
+
+
+
+
+
+
 ### todo:
 - [x] (50/100 done) `adding shellcode execution (with a short & neat guide how to get shellcode without using radare2 or the classical ghidra or metasploit utils)`
 - (10/100) Windows version(on going!)
